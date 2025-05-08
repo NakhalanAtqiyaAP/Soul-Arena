@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\player\\bandit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\bandit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\player\\sensor_heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\sensor_heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\player\\heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|c:\\users\\nakhalan atqiya\\onedrive\\dokumen\\gameunity\\soul arena\\assets\\script\\cameraadjust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameraadjust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\characterbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\playerattack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerattack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151762DE-652F-6864-041F-9EE6A121DF38}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraAdjust.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\CameraAdjust.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraAdjust.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\CameraAdjust.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraAdjust.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:52:34.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerAttack1.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\PlayerAttack1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerAttack1.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\PlayerAttack1.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerAttack1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:12:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenuController.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:43:14.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ScoreManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:48:11.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameOverController.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\GameOverController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOverController.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\GameOverController.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOverController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAMwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:48:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterBase.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\CharacterBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharacterBase.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\CharacterBase.cs",
+              "RelativeToolTip": "Assets\\Script\\CharacterBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:44:55.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:50:20.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthBarController.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\HealthBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HealthBarController.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\HealthBarController.cs",
+              "RelativeToolTip": "Assets\\Script\\HealthBarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:38:35.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sensor_HeroKnight.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\Player\\Sensor_HeroKnight.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Sensor_HeroKnight.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\Player\\Sensor_HeroKnight.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Sensor_HeroKnight.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:26:38.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bandit.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\Player\\Bandit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Bandit.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\Player\\Bandit.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Bandit.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:44:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeroKnight.cs",
+              "DocumentMoniker": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\Player\\HeroKnight.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\HeroKnight.cs",
+              "ToolTip": "C:\\Users\\Nakhalan Atqiya\\OneDrive\\Dokumen\\gameUnity\\Soul Arena\\Assets\\Script\\Player\\HeroKnight.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\HeroKnight.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:35:50.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
