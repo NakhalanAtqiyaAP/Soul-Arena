@@ -1,0 +1,4 @@
+repository "Soul Arena/Soul Arena@20066849227916@cloud"
+  path "/"
+    br "/main"
+    co "/main"
